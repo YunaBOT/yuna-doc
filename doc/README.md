@@ -11,7 +11,7 @@ Yuna is a Discord Music Bot support multiple platform such as : Youtube , Spotif
 
 Welcome to **Yuna's Documentation** !
 
-I hope you'll find enough help to **fully understand** Yuna. If you want to correct, edit, add or remove something on this Wiki, you can go on [the GitHub page](https://github.com/HellCatVN/yuna/tree/docs). Your help will be gladly accepted ! 
+I hope you'll find enough help to **fully understand** Yuna. If you want to correct, edit, add or remove something on this Wiki, you can go on [the GitHub page](https://github.com/YunaBOT/yuna-docs/tree/main). Your help will be gladly accepted ! 
 
 <hr/>
 

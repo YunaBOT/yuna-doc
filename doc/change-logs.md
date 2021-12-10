@@ -3,6 +3,13 @@
 <hr/>
 All Yuna's update logs
 
+## 3.1.0 - ( 2021-10-24)
+
+### Added
+
+-   Add `join` , `remove`, `pause`, `resume` command
+
+
 ## 3.0.0 - ( 2021-13-11 -> 2021-16-11)
 
 ### Fixed
